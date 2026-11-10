@@ -11,3 +11,6 @@ __pycache__/
 # Basura del sistema
 Thumbs.db
 .DS_Store
+
+# Datos demasiado grandes para GitHub
+RECOMENDADOR PELIS/credits.csv
